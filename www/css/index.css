@@ -209,6 +209,10 @@ h1 {
     text-align: center;
 }
 
+.social-icon {
+  text-decoration: none; /* 移除文本修饰线 */
+  border-bottom: none; /* 移除下边框 */
+} 
 #aside_content .card-info img {
     display: inline-block;
     padding: 5px;
